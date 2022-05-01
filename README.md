@@ -5,7 +5,7 @@ Financial analyst
 -----------------
 
 * 🌍  I'm based in Banglore
-* 🖥️  See my portfolio at [my website](http://www.akshaysb.com)
+* 🖥️  See my [portfolio](http://www.akshaysb.com)
 * ✉️  You can contact me at [akshaysbabu@icloud.com](mailto:akshaysbabu@icloud.com)
 * 🧠  I'm learning R(programming)
 * 🤝  I'm open to collaborating on data analytics projects
